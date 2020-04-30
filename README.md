@@ -2,6 +2,10 @@
 
 [GePpeTto](https://arxiv.org/abs/2004.14253), is a generative language model for Italian, built using the [GPT-2 architecture](https://github.com/openai/gpt-2).
 
+You can find further details in the paper:
+
+Lorenzo De Mattei, Michele Cafagna, Felice Dell’Orletta, Malvina Nissim, Marco Guerini "GePpeTto Carves Italian into a Language Model", arXiv preprint. Pdf available at: https://arxiv.org/abs/2004.14253
+
 Usage
 =====
 
